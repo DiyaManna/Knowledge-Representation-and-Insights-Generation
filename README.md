@@ -37,9 +37,7 @@ python app.py
 ![scatter_plot](https://github.com/user-attachments/assets/f910dcfb-89eb-40c8-9c56-1e3e4bdb535f)
 
 2️⃣ Insights Dashboard
-![Screenshot 2025-03-20 132735](https://github.com/user-attachments/assets/d0358670-85fb-48bf-baf3-eca36d9541c4)
+![Screenshot 2025-03-20 133859](https://github.com/user-attachments/assets/293727f2-e4a9-4761-854b-d7fc1f3923d8)
 
-
-
-![Screenshot 2025-03-20 132801](https://github.com/user-attachments/assets/85b21584-097b-4cc5-985b-8af5c250ebe8)
+![Screenshot 2025-03-20 133928](https://github.com/user-attachments/assets/9348f24c-e3aa-44ec-973d-bdc49a100ba3)
 
