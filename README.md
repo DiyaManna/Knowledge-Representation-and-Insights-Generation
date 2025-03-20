@@ -32,12 +32,16 @@ python app.py
 
 📷 Screenshots
 1️⃣ Knowledge Graph Representation
+
 ![line_graph](https://github.com/user-attachments/assets/d13433ba-db95-4d06-ba31-604bc6626ce4)
 
 ![scatter_plot](https://github.com/user-attachments/assets/f910dcfb-89eb-40c8-9c56-1e3e4bdb535f)
 
 2️⃣ Insights Dashboard
+
+
 ![Screenshot 2025-03-20 133859](https://github.com/user-attachments/assets/293727f2-e4a9-4761-854b-d7fc1f3923d8)
+
 
 ![Screenshot 2025-03-20 133928](https://github.com/user-attachments/assets/9348f24c-e3aa-44ec-973d-bdc49a100ba3)
 
