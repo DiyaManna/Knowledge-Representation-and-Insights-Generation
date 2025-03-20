@@ -30,6 +30,16 @@ pip install -r requirements.txt
 # Run the backend
 python app.py
 
+📷 Screenshots
+1️⃣ Knowledge Graph Representation
+![line_graph](https://github.com/user-attachments/assets/d13433ba-db95-4d06-ba31-604bc6626ce4)
+
+![scatter_plot](https://github.com/user-attachments/assets/f910dcfb-89eb-40c8-9c56-1e3e4bdb535f)
+
+2️⃣ Insights Dashboard
+![Screenshot 2025-03-20 132735](https://github.com/user-attachments/assets/d0358670-85fb-48bf-baf3-eca36d9541c4)
 
 
+
+![Screenshot 2025-03-20 132801](https://github.com/user-attachments/assets/85b21584-097b-4cc5-985b-8af5c250ebe8)
 
